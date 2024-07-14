@@ -1,16 +1,8 @@
 ---
 layout: post
-title: "Hello-World"
-date: 2024-07-14 17:52:14 -0200
-categories: Hello World
----
----
-layout: post
-title: "Embarking on My Web Development Journey"
+title: "Hello World"
 date: 2024-07-14
-author: Sakhr
-categories: [Web Development, Personal]
-tags: [beginners, learning, front-end]
+categories: Hello World
 ---
 
 # Embarking on My Web Development Journey
